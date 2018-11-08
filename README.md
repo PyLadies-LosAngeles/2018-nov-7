@@ -1,5 +1,5 @@
 # The Event
-PyLadies LA had a great event, **[Lightning Talks || Python Applications](https://www.meetup.com/Pyladies-LA/events/254903299/)** on November 7, 2018. 
+PyLadies LA had a great event, **[Lightning Talks || Python Applications](https://www.meetup.com/Pyladies-LA/events/254903299/)**, on November 7, 2018. 
 
 
 ## The Talks
