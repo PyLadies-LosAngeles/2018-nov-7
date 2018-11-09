@@ -21,3 +21,4 @@ Working with data pipelines can be a pain, whether you're running the tasks one 
 
 ### Hope to see you next time!
 
+![pyladiesla_logo](https://user-images.githubusercontent.com/32135867/48275251-ea2d4f80-e3f9-11e8-8383-59840c6727c9.jpeg)
